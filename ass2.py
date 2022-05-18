@@ -1,5 +1,5 @@
 # params for formatting
-PATH = 'CSD203x_asm2_minhntlfx10511@funix.edu.vn'
+PATH = ''
 FIELDS = ['ID', 'Title', 'quantity', 'price']
 input_file = PATH + '/Data.txt'
 output_file = PATH + '/data_out.txt'
