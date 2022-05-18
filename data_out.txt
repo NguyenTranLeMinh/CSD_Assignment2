@@ -1,0 +1,5 @@
+ID: 2, Ten: ROG Asus, So luong: 16, Gia tien: 20000.0
+ID: 1, Ten: Vsmart Live, So luong: 25, Gia tien: 400.0
+ID: 5, Ten: a, So luong: 1, Gia tien: 23.0
+ID: 4, Ten: b, So luong: 2, Gia tien: 44.0
+ID: 32, Ten: iPhone, So luong: 2, Gia tien: 3113.0
